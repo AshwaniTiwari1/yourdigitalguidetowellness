@@ -206,8 +206,8 @@ button:focus {
 .mu-primary-btn1 {
 	background-color: transparent;
 	border-radius: 100px;
-	border: solid 2px #eba818;
-	color: #eba818;
+	border: solid 2px #1e1e1d;
+	color: #e8e1d0;
 	display: inline-block;
 	font-size: 15px;
 	font-weight: 400;
@@ -215,11 +215,12 @@ button:focus {
 	padding: 12px 25px;
 	-webkit-transition: all 0.5s;
 	transition: all 0.5s;
+	background-color:#ff871c;
 }
 
 .mu-primary-btn1:hover,
 .mu-primary-btn1:focus {
-	background-color:#ff871c;
+	background-color:#d5ccc4;
 	color: #000000d2;
 	border: solid 1px #000000d2;
 }
@@ -390,7 +391,7 @@ button:focus {
 
 .mu-hero-left h1 {
 	color: #fff;
-	font-size: 35px;
+	font-size: 44px;
 	margin-bottom: 20px;
 }
 
