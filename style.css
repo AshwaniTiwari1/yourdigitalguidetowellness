@@ -1338,7 +1338,7 @@ button:focus {
 		font-size: 12px;
 		font-weight: 350;
 		letter-spacing: 1px;
-		padding: 10px 10px;
+		padding: 10px 5px;
 		-webkit-transition: all 0.5s;
 		transition: all 0.5s;
 	}
