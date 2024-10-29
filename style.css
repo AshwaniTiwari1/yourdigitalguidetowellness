@@ -1333,7 +1333,7 @@ button:focus {
 	.mu-primary-btn1 {
 		background-color: transparent;
 		border-radius: 100px;
-	
+	        background-color:#ff871c;
 		display: inline-block;
 		font-size: 12px;
 		font-weight: 350;
