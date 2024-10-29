@@ -1333,12 +1333,12 @@ button:focus {
 	.mu-primary-btn1 {
 		background-color: transparent;
 		border-radius: 100px;
-	        background-color:#ff871c;
+		background-color:#ff871c;
 		display: inline-block;
 		font-size: 12px;
 		font-weight: 350;
 		letter-spacing: 1px;
-		padding: 10px 20px;
+		padding: 10px 10px;
 		-webkit-transition: all 0.5s;
 		transition: all 0.5s;
 	}
